@@ -19,7 +19,7 @@ This is a simple Python program that checks if two PDF files are identical by co
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pdfchecker.git
+    git clone https://github.com/Fardeen2903/PDFchecker.git
     ```
 
 2. Navigate to the project directory:
